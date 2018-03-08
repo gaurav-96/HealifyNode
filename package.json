@@ -1,0 +1,16 @@
+{
+  "name": "healify_node",
+  "version": "1.0.0",
+  "description": "NodeJS REST API for Healify",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaurav Gangwar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mysql": "^2.15.0",
+    "nodemon": "^1.17.1"
+  }
+}
